@@ -1,17 +1,24 @@
-🎨 Colored Boxes.
-A simple project that displays colored boxes arranged using CSS Grid.
+🎨 Colored Boxes
 
-🛠️ Technologies Used.
-• HTML5.
-• CSS3 Grid.
+A simple training project built using HTML & CSS only.
 
-🚀 How to Run.
-1. Download the files.
-2. Open index.html in your browser.
+📌 Description
 
-📁 Project Structure.
-colored-boxes/
-├── index.html.
-└── style.css.
-�
-Made with ❤️ by " Ali Haitham ".
+This project demonstrates how to create and control colored boxes using CSS Grid.
+
+🛠 Technologies
+
+- HTML
+- CSS
+- CSS Grid
+
+🖼 Preview
+
+"Project Preview" (<img width="825" height="332" alt="ss" src="https://github.com/user-attachments/assets/1c095a08-fb75-4b4d-9b4b-f41c560d9e9d" />
+)
+
+«Replace "preview.png" with your actual image name.»
+
+---
+
+👨‍💻 Created for practice purposes.
